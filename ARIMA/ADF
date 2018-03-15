@@ -1,1 +1,4 @@
-
+ADF(Augmented Dickey–Fuller test)
+#这是一个检验，类似于T检验，用来判断时间序列数据的稳定性
+#在python中有个库还有个函数可以直接调用
+##python包：statsmodels.tsa.stattools.adfuller
