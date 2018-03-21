@@ -1,5 +1,5 @@
 # Data-Mining-Algorithm
-涉及数据挖掘的经典十大算法的学习
+数据挖掘算法的学习
 先大致分为四大类
 # 分类
   KNN
@@ -15,3 +15,6 @@
 # 时序分析
   ARIMA（及其变体）
   GRACH
+  HMM
+  RNN
+  LSTM
